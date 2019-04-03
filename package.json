@@ -1,0 +1,13 @@
+{
+  "name": "INET-concurso3D",
+  "version": "1.0.0",
+  "description": "Concurso promovido por el Instituto Nacional de Educación Tecnológica (INET) del Ministerio de Educación, Cultura, Ciencia y Tecnología de la Nación",
+  "private": true,
+  "dependencies": {},
+  "scripts": {
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+  }
+}
